@@ -1,0 +1,8 @@
+
+.tap {
+    background-color: var(--botonBase);
+}
+
+.tap:hover {
+    background-color: var(--botonHover);
+}
